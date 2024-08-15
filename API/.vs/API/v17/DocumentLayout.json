@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\dataaccess\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\api\\migrations\\20240815152450_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:migrations\\20240815152450_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\api\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\api\\controllers\\razacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:controllers\\razacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86507E0-6DA1-4C17-8F2B-D2014AC34DCE}|..\\Services\\Services.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86507E0-6DA1-4C17-8F2B-D2014AC34DCE}|..\\Services\\Services.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\services\\razaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86507E0-6DA1-4C17-8F2B-D2014AC34DCE}|..\\Services\\Services.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\services\\interfaces\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86507E0-6DA1-4C17-8F2B-D2014AC34DCE}|..\\Services\\Services.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\services\\interfaces\\irazaservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\dataaccess\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097218F-FF74-4CEF-8762-E1E0858E4082}|..\\Entities\\Entities.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\entities\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\dataaccess\\repositories\\interfaces\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\dataaccess\\repositories\\razarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097218F-FF74-4CEF-8762-E1E0858E4082}|..\\Entities\\Entities.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\entities\\raza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\madaiacademico\\madai\\curso backent c#\\proyectofinal\\finalprojet\\dataaccess\\repositories\\interfaces\\irazarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RazaController.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Controllers\\RazaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RazaController.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Controllers\\RazaController.cs",
+              "RelativeToolTip": "Controllers\\RazaController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:16:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T15:15:04.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:13:33.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MascotaService.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\MascotaService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\MascotaService.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\MascotaService.cs",
+              "RelativeToolTip": "..\\Services\\MascotaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:11:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RazaService.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\RazaService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RazaService.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\RazaService.cs",
+              "RelativeToolTip": "..\\Services\\RazaService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:10:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIContext.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Context\\APIContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Context\\APIContext.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Context\\APIContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\Context\\APIContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:55:44.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240815152450_API.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Migrations\\20240815152450_API.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240815152450_API.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Migrations\\20240815152450_API.cs",
+              "RelativeToolTip": "Migrations\\20240815152450_API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:24:51.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MascotaController.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Controllers\\MascotaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MascotaController.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\API\\Controllers\\MascotaController.cs",
+              "RelativeToolTip": "Controllers\\MascotaController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:17:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMascotaService.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\Interfaces\\IMascotaService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Interfaces\\IMascotaService.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\Interfaces\\IMascotaService.cs",
+              "RelativeToolTip": "..\\Services\\Interfaces\\IMascotaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:09:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRazaServive.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\Interfaces\\IRazaServive.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Interfaces\\IRazaServive.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Services\\Interfaces\\IRazaServive.cs",
+              "RelativeToolTip": "..\\Services\\Interfaces\\IRazaServive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:09:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\MascotaRepository.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\MascotaRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\MascotaRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:12.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMascotaRepository.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\Interfaces\\IMascotaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\Interfaces\\IMascotaRepository.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\Interfaces\\IMascotaRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\Interfaces\\IMascotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:27.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RazaRepository.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\RazaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\RazaRepository.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\RazaRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\RazaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:59:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRazaRepository.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\Interfaces\\IRazaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\Interfaces\\IRazaRepository.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\DataAccess\\Repositories\\Interfaces\\IRazaRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\Interfaces\\IRazaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:58:24.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Mascota.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Mascota.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Mascota.cs",
+              "RelativeToolTip": "..\\Entities\\Mascota.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:53:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Raza.cs",
+              "DocumentMoniker": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Raza.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Raza.cs",
+              "ToolTip": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Raza.cs",
+              "RelativeToolTip": "..\\Entities\\Raza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:52:06.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

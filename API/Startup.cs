@@ -143,12 +143,12 @@ namespace API
             services.AddTransient<IEmployeeRepository, EmployeeRepository>();
 
             //Connection for Categories
-            services.AddTransient<ICategoryRepository, CategoryRepository>();
-            services.AddTransient<ICategoryServive, CategoryService>();
+            services.AddTransient<IRazaRepository, RazaRepository>();
+            services.AddTransient<IRazaServive, RazaService>();
 
             //Connection for Products
-            services.AddTransient<IProductRepository, ProductRepository>();
-            services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<IMascotaRepository, MascotaRepository>();
+            services.AddTransient<IMascotaService, MascotaService>();
         }
     }
 }
