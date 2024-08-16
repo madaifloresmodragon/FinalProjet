@@ -37,14 +37,15 @@ namespace API.Controllers
             return Created("api/mascota", newMascota);
         }
 
+
         [HttpGet]
         [Route("{id}")]
         public ActionResult<Mascota> GetById(int id) 
         {
             var mascota = _mascotaService.FindById(id);
-
             return Ok(mascota);
         }
+
 
         [HttpPatch]
         public ActionResult<Mascota> Update([FromBody] Mascota mascota) 

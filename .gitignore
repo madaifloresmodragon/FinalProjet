@@ -1,0 +1,15 @@
+/.vs
+/packages
+/API/Migrations
+/API/bin
+/API/obj
+/API/logs
+/DataAccess/obj
+/DataAccess/bin
+/Entities/obj
+/Entities/bin
+/Services/obj
+/Services/bin
+/Authentication/bin
+/Authentication/obj
+API/.vs

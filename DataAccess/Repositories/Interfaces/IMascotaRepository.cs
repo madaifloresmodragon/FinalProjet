@@ -13,6 +13,7 @@ namespace DataAccess.Repositories.Interfaces
         public Mascota Add(Mascota mascota);
         public void Update(Mascota mascota);
         public Mascota FindById(int id);
+        public ICollection<Mascota> FindByRazas(List<String> razas);
         public void Delete(Mascota mascota);
     }
 }

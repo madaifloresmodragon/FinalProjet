@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MADAI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ASUS TUF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\MADAI\\.nuget\\packages\\",
-      "outputPath": "C:\\MadaiAcademico\\Madai\\CURSO BACKENT C#\\PROYECTOFINAL\\FinalProjet\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\ASUS TUF\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MADAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ASUS TUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

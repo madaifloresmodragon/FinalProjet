@@ -3,6 +3,7 @@ using Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -47,10 +48,18 @@ namespace DataAccess.Repositories
            return mascota;
         }
 
+
         public ICollection<Mascota> list()
         {
             return _dbContext.Set<Mascota>().Include(p => p.Raza).ToList();
         }
+
+        public ICollection<Mascota> FindByRazas(List<String> razas)
+        {
+            var mascotas = _dbContext.Set<Mascota>().Include(m => m.Raza).Where(m => razas.Contains(m.Raza.Nombre)).ToList();
+            return mascotas;
+        }
+
 
         public void Update(Mascota mascota)
         {
@@ -79,5 +88,7 @@ namespace DataAccess.Repositories
 
             _dbContext.SaveChanges();
         }
+
+
     }
 }

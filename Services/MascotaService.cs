@@ -16,6 +16,7 @@ namespace Services
         {
             _mascotaRepository = mascotaRepository;
         }
+
         public Mascota Add(Mascota mascota)
         {
             return _mascotaRepository.Add(mascota);
@@ -39,6 +40,11 @@ namespace Services
         public ICollection<Mascota> List()
         {
             return _mascotaRepository.list();
+        }
+
+        public ICollection<Mascota> FindByRazas(List<String> razas)
+        {
+            return _mascotaRepository.FindByRazas(razas);
         }
 
         public void Update(Mascota mascota)

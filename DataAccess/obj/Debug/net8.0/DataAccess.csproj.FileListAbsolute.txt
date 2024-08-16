@@ -16,3 +16,21 @@ C:\MadaiAcademico\Madai\CURSO BACKENT C#\PROYECTOFINAL\FinalProjet\DataAccess\ob
 C:\MadaiAcademico\Madai\CURSO BACKENT C#\PROYECTOFINAL\FinalProjet\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\MadaiAcademico\Madai\CURSO BACKENT C#\PROYECTOFINAL\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\MadaiAcademico\Madai\CURSO BACKENT C#\PROYECTOFINAL\FinalProjet\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\Authentication.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\Authentication.pdb
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\ASUS TUF\source\repos\FinalProjet\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

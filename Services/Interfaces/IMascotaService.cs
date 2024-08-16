@@ -14,5 +14,7 @@ namespace Services.Interfaces
         public void Update(Mascota mascota);
         public Mascota FindById(int id);
         public void Delete(int id);
+
+        public ICollection<Mascota> FindByRazas(List<String> razas);
     }
 }
