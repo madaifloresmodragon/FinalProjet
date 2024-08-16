@@ -1,86 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\API\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8EFCADAA-AC64-4DAC-B532-0E049B76985E}|..\\DataAccess\\DataAccess.csproj|c:\\users\\asus tuf\\source\\repos\\finalprojet\\dataaccess\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B86507E0-6DA1-4C17-8F2B-D2014AC34DCE}|..\\Services\\Services.csproj|c:\\users\\asus tuf\\source\\repos\\finalprojet\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\users\\asus tuf\\source\\repos\\finalprojet\\api\\controllers\\mascotabuscarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:controllers\\mascotabuscarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|c:\\users\\asus tuf\\source\\repos\\finalprojet\\api\\controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA97C4F-CBFD-4AD2-8A0E-517E9978FFC0}|API.csproj|solutionrelative:controllers\\mascotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 322,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MascotaBuscarController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\API\\Controllers\\MascotaBuscarController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MascotaBuscarController.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\API\\Controllers\\MascotaBuscarController.cs",
-              "RelativeToolTip": "Controllers\\MascotaBuscarController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T00:36:18.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MascotaController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\API\\Controllers\\MascotaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MascotaController.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\API\\Controllers\\MascotaController.cs",
-              "RelativeToolTip": "Controllers\\MascotaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T19:52:48.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MascotaService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\Services\\MascotaService.cs",
-              "RelativeDocumentMoniker": "..\\Services\\MascotaService.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\Services\\MascotaService.cs",
-              "RelativeToolTip": "..\\Services\\MascotaService.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwCwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:12:15.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MascotaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\DataAccess\\Repositories\\MascotaRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\MascotaRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS TUF\\source\\repos\\FinalProjet\\DataAccess\\Repositories\\MascotaRepository.cs",
-              "RelativeToolTip": "..\\DataAccess\\Repositories\\MascotaRepository.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:13:02.448Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

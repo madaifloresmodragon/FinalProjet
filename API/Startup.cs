@@ -138,10 +138,6 @@ namespace API
             //Contection beetween EntityFramework and Project Context
             services.AddTransient<IdentityDbContext, APIContext>();
 
-            //Connection for Employee
-            services.AddTransient<IEmployeeService, EmployeeService>();
-            services.AddTransient<IEmployeeRepository, EmployeeRepository>();
-
             //Connection for Categories
             services.AddTransient<IRazaRepository, RazaRepository>();
             services.AddTransient<IRazaServive, RazaService>();
